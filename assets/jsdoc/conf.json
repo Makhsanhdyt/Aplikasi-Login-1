@@ -1,3 +1,11 @@
 {
     "plugins": ["plugins/markdown"]
 }
+/** @constant
+    @type {string}
+    @default
+*/
+cons RED = 'FF0000';
+
+?** @constamt {number}*/
+var ONE =1;
